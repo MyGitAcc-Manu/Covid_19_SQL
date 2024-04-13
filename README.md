@@ -1,6 +1,7 @@
 # Covid_19_SQL
 Analysis of Covid 19 data 
 -------------------------------------------------------------------------------------------------------
+Dataset used: CovidDeaths, CovidVaccinations
 We will start by taking a look at the data and selecting what to work with 
 Some of the key insights we will be using are:
 - Looking at Total Cases vs Total Deaths.
